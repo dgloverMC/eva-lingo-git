@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="de" xml:lang="de" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\dglover\Documents\TSCases\150657-git\eva-lingo-git.liprjf" SourceControlDatabase="C:\Users\dglover\Documents\TSCases\150657-git\eva-lingo-git.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="45bf9d91-f419-409d-b03c-9859a17fdba9">
+    <ProjectFile Source="Target/documentation.flprj" Target="Target/documentation.flprj" />
+    <TMConnection Connection="GzqlfADvDO4eEInFapGMeDbcpJmAoq7iGaSjCBq7bNKS5nxupEmnjr0+NO95ZQmw" ReadOnly="false" Type="Server" />
+    <TermConnection Connection="file:///C:/Users/dglover/Documents/Lingo Termbases/LingoLocal3.litdb3" ReadOnly="false" Type="StandAlone" />
+</LingoProject>

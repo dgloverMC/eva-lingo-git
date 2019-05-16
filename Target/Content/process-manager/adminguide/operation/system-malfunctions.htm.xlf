@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="system-malfunctions.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="de">
+    <header>
+      <skl><external-file
+          href="system-malfunctions.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">89</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Typical malfunctions</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Typical malfunctions</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This section provides an overview over the most frequent causes for
+system malfunctions and their possible solutions:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This section provides an overview over the most frequent causes for system malfunctions and their possible solutions:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     The Tomcat server or the database don't start up after
+maintenance activities.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">The Tomcat server or the database don't start up after maintenance activities.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Try to login each time after maintenance activities to check whether
+the system started properly.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Try to login each time after maintenance activities to check whether the system started properly.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     Not enough disk space is available for the
+database.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">Not enough disk space is available for the database.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Each diagram version requires approximately 1 MB disc space. If a
+diagram is saved ten times, 10 MB of data are used. We recommend
+calculating enough disk space and monitoring it on operating system
+level. For example, a note could be sent to the administrator if the
+system is running out of disc space.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Each diagram version requires approximately 1 MB disc space.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">If a diagram is saved ten times, 10 MB of data are used.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">We recommend calculating enough disk space and monitoring it on operating system level.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">For example, a note could be sent to the administrator if the system is running out of disc space.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     There was not enough memory allocated to the Tomcat
+server.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">There was not enough memory allocated to the Tomcat server.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This manifests in frequent swapping and slow diagram accesses – even
+     <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;OutOfMemoryExceptions&lt;/code&gt;</ph>
+     and a crash of the Tomcat server may
+occur. Allocate more memory to the Tomcat server. See chapter
+     <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code class="interpreted-text" data-role="ref" xmlns="http://www.w3.org/1999/xhtml"&gt;
+      conf_web_server
+     &lt;/code&gt;</ph>
+     .</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This manifests in frequent swapping and slow diagram accesses – even <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;OutOfMemoryExceptions&lt;/code&gt;</ph> and a crash of the Tomcat server may occur.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Allocate more memory to the Tomcat server.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">See chapter <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code class="interpreted-text" data-role="ref" xmlns="http://www.w3.org/1999/xhtml"&gt;
+      conf_web_server
+     &lt;/code&gt;</ph> .</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     Your browser redirects you to localhost when you enter the
+Signavio server URL into the web browser.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">Your browser redirects you to localhost when you enter the Signavio server URL into the web browser.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>You didn't configure the server correctly. Please ensure that the
+installation instructions have been followed correctly and restart the
+Apache Tomcat.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">You didn't configure the server correctly.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Please ensure that the installation instructions have been followed correctly and restart the Apache Tomcat.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     Umlauts are not displayed as expected in Signavio Process
+Manager UI and exported documents or pictures (PNG, PDF
+etc.)
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">Umlauts are not displayed as expected in Signavio Process Manager UI and exported documents or pictures (PNG, PDF etc.)</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The Apache Tomcat is not using UTF-8 encoding. Please check the
+operating system, database and web server configuration (see
+installation instructions).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The Apache Tomcat is not using UTF-8 encoding.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Please check the operating system, database and web server configuration (see installation instructions).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     The system doesn't send notification emails.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">The system doesn't send notification emails.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Re-check the server’s SMTP configuration (see installation
+instructions).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Re-check the server’s SMTP configuration (see installation instructions).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     Users within your company/network receive notification
+emails, external users don’t.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">Users within your company/network receive notification emails, external users don’t.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Some relay configuration of your email server prevents it from
+sending emails to external users. For most email servers allowing
+anonymous access (if no username and password was set during
+configuration of the email server integration) this is the default
+configuration. Contact the administrator who is responsible for your
+email server.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Some relay configuration of your email server prevents it from sending emails to external users.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">For most email servers allowing anonymous access (if no username and password was set during configuration of the email server integration) this is the default configuration.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Contact the administrator who is responsible for your email server.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     The Tomcat server doesn’t start up properly and writes
+'Waiting for changelog lock...' into the log file.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">The Tomcat server doesn’t start up properly and writes 'Waiting for changelog lock...' into the log file.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>If the Tomcat startup was canceled previously (for example due to a
+lack of memory), this error may occur. Stop the server before fixing
+the defect. Afterwards, log into the database and open the table
+     <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      DatabaseChangelogLock
+     &lt;/code&gt;</ph>
+     . It usually contains just one line.
+Set the value of the variable
+     <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      LOCKED
+     &lt;/code&gt;</ph>
+     from
+     <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      1
+     &lt;/code&gt;</ph>
+     to
+     <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      0
+     &lt;/code&gt;</ph>
+     . Start the Tomcat server again.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">If the Tomcat startup was canceled previously (for example due to a lack of memory), this error may occur.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Stop the server before fixing the defect.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Afterwards, log into the database and open the table <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      DatabaseChangelogLock
+     &lt;/code&gt;</ph> . It usually contains just one line.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">Set the value of the variable <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      LOCKED
+     &lt;/code&gt;</ph> from <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      1
+     &lt;/code&gt;</ph> to <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      0
+     &lt;/code&gt;</ph> . Start the Tomcat server again.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     It is not possible to save very large
+diagrams
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">It is not possible to save very large diagrams</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>With the default Tomcat settings, it is not possible to save very
+large diagrams (&gt; 2 MB of mere textual representation). You can
+increase the file size limit by adding the
+     <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      maxPostSize
+     &lt;/code&gt;</ph>
+     property to connector definitions in the Tomcat's
+     <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      server.xml
+     &lt;/code&gt;</ph>
+     file. Read more at
+     <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code class="interpreted-text" data-role="ref" xmlns="http://www.w3.org/1999/xhtml"&gt;
+      conf_web_server
+     &lt;/code&gt;</ph>
+     .</source><seg-source><mrk
+            mtype="seg"
+            mid="1">With the default Tomcat settings, it is not possible to save very large diagrams (&gt; 2 MB of mere textual representation).</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">You can increase the file size limit by adding the <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      maxPostSize
+     &lt;/code&gt;</ph> property to connector definitions in the Tomcat's <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code xmlns="http://www.w3.org/1999/xhtml"&gt;
+      server.xml
+     &lt;/code&gt;</ph> file.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Read more at <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;code class="interpreted-text" data-role="ref" xmlns="http://www.w3.org/1999/xhtml"&gt;
+      conf_web_server
+     &lt;/code&gt;</ph> .</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-dt"
+        phase-name="pretrans"><source>
+     Some features don't work as expected.
+    </source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">Some features don't work as expected.</mrk><mrk
+            mtype="protected"
+            mid="3"> </mrk><mrk
+            mtype="protected"
+            mid="4" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>The search of diagrams and Dictionary entries returns no
+results.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The search of diagrams and Dictionary entries returns no results.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>The Dictionary is empty.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The Dictionary is empty.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Diagrams can’t be exported as a PNGs, the diagram preview in the
+explorer shows no picture of the diagram, the Collaboration Hub shows
+no graphical representation and in the BPMN Simulation and Diagram
+Comparison no diagrams are displyed.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Diagrams can’t be exported as a PNGs, the diagram preview in the explorer shows no picture of the diagram, the Collaboration Hub shows no graphical representation and in the BPMN Simulation and Diagram Comparison no diagrams are displyed.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>The BPMN Simulation can’t be executed.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The BPMN Simulation can’t be executed.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>No daily notifications are sent out.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">No daily notifications are sent out.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The different features are provided by different web services which
+communicate via HTTP(S). For a smooth communication it is necessary
+that the JVM instance accepts the used certificate. If you observe one
+or more of these effects please check the Tomcat log files. Probably,
+the error messages contain helpful hints on what the problem is.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The different features are provided by different web services which communicate via HTTP(S).</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">For a smooth communication it is necessary that the JVM instance accepts the used certificate.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">If you observe one or more of these effects please check the Tomcat log files.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">Probably, the error messages contain helpful hints on what the problem is.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
