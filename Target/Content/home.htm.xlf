@@ -55,14 +55,15 @@
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
-        phase-name="pretrans"><source>Guides</source><seg-source><mrk
+        phase-name="pretrans"><source>Guides testt</source><seg-source><mrk
             mtype="seg"
-            mid="1">Guides</mrk></seg-source><target
+            mid="1">Guides testt</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-div"
         phase-name="pretrans"><source><bpt
@@ -179,15 +180,14 @@
         restype="x-xml-div"
         phase-name="pretrans"><source><bpt
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="icon"&gt;</bpt><ept
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>
-                                  <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="line"&gt;&lt;/span&gt;&lt;span class="spacer"&gt;&lt;/span&gt;</ph><bpt
             id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="product-name"&gt;</bpt>Process Intelligence<ept
             id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
             mtype="seg"
             mid="1"><bpt
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="icon"&gt;</bpt><ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="line"&gt;&lt;/span&gt;&lt;span class="spacer"&gt;&lt;/span&gt;</ph><bpt
               id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="product-name"&gt;</bpt>Process Intelligence<ept
               id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
@@ -195,7 +195,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-a"
         phase-name="pretrans"><source>User guide</source><seg-source><mrk

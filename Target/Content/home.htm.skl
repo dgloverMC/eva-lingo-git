@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" MadCap:searchable="False" class="home-topic" style="mc-master-page: url('Resources/MasterPages/HomePage.flmsp');" xml:space="preserve">
     <head>
     </head>
@@ -13,7 +13,6 @@
                             <div class="card">
                                 <div class="spm-color circle">砻קยด3ตว融</div><a class="tile-link" href="https://docs.signavio.com/userguide/editor/en/intro.html">砻קยด4ตว融</a><a class="tile-link" href="https://docs.signavio.com/apiguide/editor/index.html">砻קยด5ตว融</a><a class="tile-link" href="process-manager/adminguide/welcome.htm">砻קยด6ตว融</a>
                             </div>
-
                             <div class="card">
                                 <div class="wfa-color circle">砻קยด7ตว融</div><a class="tile-link" href="https://docs.signavio.com/userguide/workflow/en/">砻קยด8ตว融</a><a class="tile-link" href="https://docs.signavio.com/developer/workflow/">砻קยด9ตว融</a><a class="tile-link" href="workflow-accelerator/adminguide/intro/intro.htm">砻קยด10ตว融</a>
                             </div>
@@ -23,16 +22,13 @@
                             <div class="card">
                                 <div class="default-circle-color circle">砻קยด13ตว融</div><a class="tile-link" href="https://docs.signavio.com/userguide/editor/en/portal/index.html">砻קยด14ตว融</a>
                             </div>
-                              <div class="card">
-                                                            <div class="default-circle-color circle">砻קยด15ตว融</div><a class="tile-link" href="https://www.modeling-guidelines.org/">砻קยด16ตว融</a>
-                                                        </div>
+                            <div class="card">
+                                <div class="default-circle-color circle">砻קยด15ตว融</div><a class="tile-link" href="https://www.modeling-guidelines.org/">砻קยด16ตว融</a>
+                            </div>
                             <div class="card">
                                 <div class="default-circle-color circle">砻קยด17ตว融</div>
-                                <p>砻קยด18ตว融</p>
-                                <a href="download-process-manager.htm" class="tile-link">砻קยด19ตว融</a>
-                                <a href="download-workflow-accelerator.htm" class="tile-link">砻קยด20ตว融</a>
+                                <p>砻קยด18ตว融</p><a href="download-process-manager.htm" class="tile-link">砻קยด19ตว融</a><a href="download-workflow-accelerator.htm" class="tile-link">砻קยด20ตว融</a>
                             </div>
-
                         </section>
                     </div>
                     <div class="home-tiles-layout">
